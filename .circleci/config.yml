@@ -16,7 +16,6 @@ jobs:
 
       - checkout
       - run: pip install -r requirements.txt
-      - run: git config --global init.defaultBranch maste
       - run: lektor build && lektor deploy
 
 
