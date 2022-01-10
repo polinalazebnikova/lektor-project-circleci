@@ -44,3 +44,5 @@ workflows:
 ```
 
 Демонстрация успешной сборки:
+
+![successful-build](https://github.com/polinalazebnikova/lektor-project-circleci/blob/master/lektor-project-circleci-success.png?raw=true)
