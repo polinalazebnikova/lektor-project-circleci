@@ -1,0 +1,6 @@
+[project]
+name = lektor-project-circleci
+
+[servers.ghdeploy]
+name=Dev
+target = ghpages+https://polinalazebnikova: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@polinalazebnikova/lektor-project-circleci/
